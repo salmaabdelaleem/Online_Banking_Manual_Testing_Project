@@ -59,5 +59,5 @@ The goal is to ensure that all core banking functions (login, fund transfer, bil
 ISTQB Certified Tester  
 📍 Alexandria, Egypt  
 📧 salmaabdelaleem7@gmail.com  
-🔗 [LinkedIn Profile Link]
+
 
