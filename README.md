@@ -45,6 +45,9 @@ The goal is to ensure that all core banking functions (login, fund transfer, bil
 | [Test Summary Report](./Test_Summary_Report.pdf) | Summarizes results and key findings |
 
 ---
+## System Under Test  
+The testing is performed on the ParaBank Demo Application:(https://parabank.parasoft.com/parabank/index.htm)  
+
 
 ##  Key Learning
 - Created structured test documentation aligned with ISTQB standards.  
