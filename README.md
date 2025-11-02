@@ -30,7 +30,6 @@ The goal is to ensure that all core banking functions (login, fund transfer, bil
 - **Testing Type:** Manual Testing  
 - **Test Management:** Excel  
 - **Defect Tracking:** Jira  
-- **Task Tracking:** Trello  
 - **Browser:** Google Chrome  
 - **Operating System:** Windows 10  
 
